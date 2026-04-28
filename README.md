@@ -23,8 +23,7 @@ SYSTEM INFO:
 <br/>
 
 ### 🌐 Access My Main Terminal
-You can boot up my full web operating system here:
-**[logicalreality.github.io](https://logicalreality.github.io/)**
+[SYSTEM]: Web Interface available at **[logicalreality.github.io](https://logicalreality.github.io/)**
 
 ---
 
