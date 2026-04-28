@@ -14,16 +14,11 @@ SYSTEM INFO:
 ------------------------------------------------------------------------
 [✓] USER:      LogicalReality
 [✓] STATUS:    Online & Coding
+[✓] STACK:     React, JS, Tailwind, Vite, GitHub
 [✓] LOCATION:  Barcelona, VZLA
 [✓] MISSION:   Building clean interfaces and logical systems
 ========================================================================
 ```
-
-### 🚀 Booting up my tech stack...
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,github,vscode" />
-</div>
 
 <br/>
 
