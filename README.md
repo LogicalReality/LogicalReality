@@ -14,7 +14,6 @@ SYSTEM INFO:
 ------------------------------------------------------------------------
 [✓] USER:      LogicalReality
 [✓] STATUS:    Online & Coding
-[✓] STACK:     React, JS, Tailwind, Vite, GitHub
 [✓] LOCATION:  Barcelona, VZLA
 [✓] MISSION:   Building clean interfaces and logical systems
 ========================================================================
