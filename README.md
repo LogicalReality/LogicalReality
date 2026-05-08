@@ -23,15 +23,3 @@ SYSTEM INFO:
 
 ### 🌐 Access My Main Terminal
 [SYSTEM]: Web Interface available at **[logicalreality.github.io](https://logicalreality.github.io/)**
-
----
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicalReality&layout=compact&theme=radical&bg_color=181818&title_color=00FF41&text_color=ffffff&border_color=333333&title_font_size=20" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
