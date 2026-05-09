@@ -15,7 +15,7 @@ SYSTEM INFO:
 [✓] USER:      LogicalReality
 [✓] STATUS:    Online & Coding
 [✓] LOCATION:  Barcelona, VZLA
-[✓] MISSION:   Building clean interfaces and logical systems
+[✓] MISSION:   Building clean interfaces and systems
 ========================================================================
 ```
 
